@@ -1,4 +1,4 @@
-MineRex 2
+MineRex
 =============
 
 2D World Generator
